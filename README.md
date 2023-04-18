@@ -1,18 +1,4 @@
 # demlabs_test_project
-
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
+1. ```npm install``` to install deps;
+2. ```npm run dev``` to start app on dev server;
+3. Open ```localhost:3000``` in browser.
